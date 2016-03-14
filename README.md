@@ -52,9 +52,9 @@ The table below provides an example of the dataset’s attributes (i.e. key colu
 
 * We used a combination of [bash ](https://github.com/pixels2predicates/CFR/tree/master/extract) and [python scripts](https://github.com/pixels2predicates/CFR/blob/master/extract/recYTD.py) to recursively download from the ftp site.
 
-* The Python script is used to grab the year to date files.
+* The Python script is used to obtain the year to date files.
 
-* There are two bash scripts: one is used to grab 4 files (contrib.txt, receipt.txt, debt.txt, and expense.txt) in each of the directories. The second is used to account for the formatting of filer.txt that cannot be obtained via the logic of the first script.
+* There are two bash scripts: one is used to acquire 4 files (contrib.txt, receipt.txt, debt.txt, and expense.txt) in each of the directories. The second is used to account for the formatting of filer.txt that cannot be obtained via the logic of the first script.
 
 
 **_Research Questions:_**
