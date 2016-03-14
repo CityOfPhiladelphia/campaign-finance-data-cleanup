@@ -50,7 +50,7 @@ The table below provides an example of the dataset’s attributes (i.e. key colu
 
 **_Extraction Process Used:_**
 
-* We used a combination of [bash shell scripts](https://github.com/pixels2predicates/CFR/tree/master/extract) and [python](https://github.com/pixels2predicates/CFR/blob/master/extract/recYTD.py) to recursively download from the ftp site.
+* We used a combination of [bash ](https://github.com/pixels2predicates/CFR/tree/master/extract) and [python scripts](https://github.com/pixels2predicates/CFR/blob/master/extract/recYTD.py) to recursively download from the ftp site.
 
 * The Python script is used to grab the year to date files.
 
