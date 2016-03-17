@@ -22,6 +22,15 @@ How to prepare data for analysis: Handling Amendments
 
 (i.) Locate the row that has a value of "Y" for amended and remove all prior instances with an amended value of "N".
 
+
+![alt text](https://github.com/CityOfPhiladelphia/campaign-finance-data-cleanup/blob/master/out.gif "Logo Title Text 1")
+
+
+
+
+
+
+
 (ii.) ....
 
 			
