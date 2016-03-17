@@ -1,10 +1,14 @@
-How to prepare data for the analysis: Handling Amendments
+How to prepare data for analysis: Handling Amendments
 
-(1.) First sort by FilerName
+(1.) Sort by FilerName
 
-(2.) Then sort by DocType
+(2.) Sort by DocType
 
-(3.) ...
+(3.) Sort by EntityName
+
+(4.) Sort by Date
+
+(5.) Sort by SubDate
 
 
 |Year|Cycle|Amended|Amount||FilerName|
