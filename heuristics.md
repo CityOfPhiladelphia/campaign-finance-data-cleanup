@@ -20,7 +20,7 @@ How to prepare data for the analysis: Handling Amendments
 
 (ii.) ....
 
-
+			
 |Year|Cycle|Amended|Amount||FilerName|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |2011|2|Y|N|0|Friends of Jannie L. Blackwell|
