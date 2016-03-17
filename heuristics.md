@@ -1,4 +1,4 @@
-How to prepare data for analysis: Handling Amendments
+## How to prepare data for analysis: Handling Amendments
 
 (1.) Sort by FilerName
 
