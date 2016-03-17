@@ -11,13 +11,16 @@ How to prepare data for analysis: Handling Amendments
 (5.) Sort by SubDate
 
 
-|Year|Cycle|Amended|Amount||FilerName|
-| ------ | ------ | ------ | ------ | ------ | ------ |
-|2011|2|N|N|0|Friends of Jannie L. Blackwell|
-|2011|2|Y|N|0|Friends of Jannie L. Blackwell|
-|2011|2|N|N|0|Friends of Jeff Dence|
-|2011|2|N|N|0|Friends of Jeff Hornstein|
-|2011|2|N|N|0|Friends of Jewell Williams|
+
+|FilerName|Year|EntityName|Date|Amount|Amended|SubDate||
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|Friends of X|2011|Committee to Elect Tony Payton Jr.|2/23/2011|500|N|5/4/2011|2|
+|Friends of X|2011|Committee to Elect Tony Payton Jr.|4/27/2011|1000|Y|5/6/2011|2|
+|Candidate Y|2011|Contributor Z|3/9/2011|100|N|4/3/2011|1|
+|Candidate Y|2011|Contributor Z|3/10/2011|150|N|4/4/2011|1|
+|Candidate Y|2011|Contributor Z|3/7/2011|175.16|Y|4/5/2011|1|
+
+
 
 
 (i.) Locate the row that has a value of "Y" for amended and remove all prior instances with an amended value of "N".
@@ -33,12 +36,12 @@ How to prepare data for analysis: Handling Amendments
 
 (ii.) ....
 
+|FilerName|Year|EntityName|Date|Amount|Amended|SubDate||
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|Friends of X|2011|Committee to Elect Tony Payton Jr.|4/27/2011|1000|Y|5/6/2011|2|
+|Candidate Y|2011|Contributor Z|3/7/2011|175.16|Y|4/5/2011|1|
+
 			
-|Year|Cycle|Amended|Amount||FilerName|
-| ------ | ------ | ------ | ------ | ------ | ------ |
-|2011|2|Y|N|0|Friends of Jannie L. Blackwell|
-|2011|2|N|N|0|Friends of Jeff Dence|
-|2011|2|N|N|0|Friends of Jeff Hornstein|
-|2011|2|N|N|0|Friends of Jewell Williams|
+
 
 
