@@ -139,6 +139,8 @@ F. VISUALIZATIONS:Visualizations would be a great asset for the end-user only if
 
 * [Board of Ethics - Campaign Finance:](http://www.phila.gov/ethicsboard/campaignfinance/Pages/default.aspx): This site contains information regarding campaign finance laws, gives instructions on how to file electronically, and provides the ability to search the campaign finance database.
 
+* [Complying with Philadelphia's Campaign Finance Law](http://www.phila.gov/ethicsboard/PDF/Guide%20to%20City%20Campaign%20Finance%20Law%20-%20January%202016.pdf)
+
 * [Department of Records:](http://www.phila.gov/records/campaignfinance/CampaignFinance.html) General information about campaign finance records from the department of records.
 
 * [Original ](https://github.com/CityOfPhiladelphia/phl-campaign-finance-data)[metadata](https://github.com/CityOfPhiladelphia/phl-campaign-finance-data) for Campaign Finance Reports on GitHub
